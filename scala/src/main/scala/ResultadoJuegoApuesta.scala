@@ -1,0 +1,1 @@
+class ResultadoJuegoApuesta(val gananciaTotal : Int, val probabilidad : Double) {}
